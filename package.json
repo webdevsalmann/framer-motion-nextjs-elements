@@ -1,0 +1,25 @@
+{
+  "name": "framer-motion-nextjs-elements",
+  "description": "A collection of pre-configured Framer Motion elements/components optimized for Next.js. Use animations without sacrificing the benefits of server-side rendering of nextjs.",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdevsalmann/framer-motion-nextjs-elements.git"
+  },
+  "keywords": ["next.js", "framer-motion", "animation", "nextjs-components", "server-component", "server-elements", "nextjs-elements"],
+  "author": "webdevsalmann",
+  "license": "ISC",
+  "peerDependencies": {
+    "framer-motion": "^11.2.6"
+  },
+  "devDependencies": {
+    "framer-motion": "^11.2.6",
+    "typescript": "^5.4.5"
+  }
+}
